@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Microcar</string>
+	<string>Hatchbacks</string>
+	<string>Sedans/Saloons</string>
+	<string>Station Wagons/Estate Cars</string>
+	<string>Sports Car</string>
+	<string>Sports cars/Grand tourers</string>
+	<string>Convertible</string>
+	<string>Off-roaders</string>
+	<string>Multi-purpose vehicles/Minivans</string>
+	<string>Van, camper, RV, minibus etc.</string>
+</array>
+</plist>
